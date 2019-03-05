@@ -1,0 +1,50 @@
+.name{
+  
+    height:100px;
+    background-color: red;
+    display:flex;
+    justify-content:center;
+}
+.young{
+    font-size:55px;
+    color: yellow;
+}
+
+.image{
+    background-color: yellow;
+    display:flex;
+    justify-content:space-around;
+}
+.money{
+    width:250px;
+    height:250px;
+}
+.cash{ 
+    width:300px;
+    height:250px;
+}
+.bag{
+    width:300px;
+    height:250px;
+}
+.donate{
+    height:200px;
+    background-color:black;
+    text-align:center;
+    
+}
+.chop{
+   color:red;
+   display:flex;
+   justify-content:center;
+}
+.italy{
+    width:200px;
+    height:100px;
+}
+.song{
+    background-color: red;
+    height:200px;
+    text-align:center;
+   
+}
